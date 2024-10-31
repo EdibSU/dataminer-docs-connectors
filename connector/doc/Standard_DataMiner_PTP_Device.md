@@ -9,6 +9,7 @@ The Standard DataMiner PTP Device is a **mediation** protocol used by the **PTP 
 The following connectors are currently mediated with the latest version:
 
 - Arista Manager
+- Arista eOS Manager
 - Bridge Technologies VB Probe Series
 - CISCO Nexus
 - directOut montone.42
